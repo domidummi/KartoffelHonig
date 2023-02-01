@@ -1,0 +1,7 @@
+name: KartoffelHonig
+version: '${project.version}'
+main: lol.domi.kartoffelhonig.Main
+api-version: 1.19
+authors: [ DomiDummi ]
+description: adds KartoffelHonig (PotatoHoney) to the game
+website: https://domi.lol/mc/kartoffelhonig
